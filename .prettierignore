@@ -1,0 +1,9 @@
+.*
+.git
+*.log
+yarn.lock
+assets
+__snapshots__
+coverage
+public
+build

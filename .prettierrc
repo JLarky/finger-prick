@@ -1,0 +1,13 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "overrides": [
+        {
+            "files": "package.json",
+            "options": {
+                "printWidth": 9999
+            }
+        }
+    ]
+}
